@@ -11,6 +11,8 @@ parameters["float"] = "1.2"
 parameters["integer"] = "11"
 parameters["string"] = "value"
 	
+properties := NewProperties(parameters)
+	
 assert.Equal(t, properties.BooleanParam("boolean", false), true)
 assert.Equal(t, properties.FloatParam("float", 0), float64(1.2))
 assert.Equal(t, properties.IntegerParam("integer", 0), 11)
