@@ -7,7 +7,7 @@ func NewProperties(m map[string]string) *Properties {
 	return &Properties{propertyMap: m}
 }
 
-// Properties
+// Properties is a string map decorator
 type Properties struct {
 	propertyMap map[string]string
 }
