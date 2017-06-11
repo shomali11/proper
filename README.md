@@ -2,7 +2,12 @@
 
 A `map[string]string` decorator offering a collection of helpful functions to extract the values in different types
 
-# Usage
+## Features
+
+* Retrieve data from a string map, in String, Integer, Float and Boolean types.
+* Return a default value in case of missing keys or invalid types
+
+## Usage
 
 Using `govendor` [github.com/kardianos/govendor](https://github.com/kardianos/govendor):
 
