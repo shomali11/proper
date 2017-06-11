@@ -2,6 +2,14 @@
 
 A `map[string]string` decorator offering a collection of helpful functions to extract the values in different types
 
+# Usage
+
+Using `govendor` [github.com/kardianos/govendor](https://github.com/kardianos/govendor):
+
+```
+govendor fetch github.com/shomali11/properties
+```
+
 # Examples
 
 ```go
