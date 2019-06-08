@@ -1,4 +1,4 @@
-# proper [![Go Report Card](https://goreportcard.com/badge/github.com/shomali11/proper)](https://goreportcard.com/report/github.com/shomali11/proper) [![GoDoc](https://godoc.org/github.com/shomali11/proper?status.svg)](https://godoc.org/github.com/shomali11/proper) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# proper [![Build Status](https://travis-ci.com/shomali11/proper.svg?branch=master)](https://travis-ci.com/shomali11/proper) [![Go Report Card](https://goreportcard.com/badge/github.com/shomali11/proper)](https://goreportcard.com/report/github.com/shomali11/proper) [![GoDoc](https://godoc.org/github.com/shomali11/proper?status.svg)](https://godoc.org/github.com/shomali11/proper) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A `map[string]string` decorator offering a collection of helpful functions to extract the values in different types
 
